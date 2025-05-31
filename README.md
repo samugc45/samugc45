@@ -1,1 +1,1 @@
-Siempre en un bucle infinito de aprender.
+Siempre se pueden aprender cosas cada dia!
