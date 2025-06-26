@@ -3,7 +3,7 @@
 
 ---
 
-Actualmente estudio **Ingeniería de Computadores** en la **Universidad Politécnica de Madrid**, donde estoy desarrollando una base sólida en programación, sistemas informáticos y estructuras de datos. Me apasiona aprender nuevas tecnologías y aplicarlas en proyectos prácticos.
+Actualmente estudio **Ingeniería de Computadores** en la **Universidad Politécnica de Madrid**, donde estoy desarrollando una base sólida en programación, sistemas informáticos y hardware. Me apasiona aprender nuevas tecnologías y aplicarlas en proyectos prácticos.
 
 ### 🛠️ Tecnologías y herramientas que utilizo
 - 💻 Lenguajes: **C**, **C++**, **Java**, **Python**, **SQL**
