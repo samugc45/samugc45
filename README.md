@@ -1,25 +1,25 @@
-# I'm [Tu Nombre]  
-### 🎓 Computer Engineering Student @ Universidad Politécnica de Madrid
+# 👋 ¡Hola! Soy Samuel!!  
+### 🎓 Estudiante de Ingeniería de Computadores en la Universidad Politécnica de Madrid
 
 ---
 
-I'm currently studying Computer Engineering at **Universidad Politécnica de Madrid**, where I'm building a strong foundation in software development, computer systems, and algorithms. I'm passionate about learning new technologies and applying my knowledge to real-world projects.
+Actualmente estudio **Ingeniería de Computadores** en la **Universidad Politécnica de Madrid**, donde estoy desarrollando una base sólida en programación, sistemas informáticos y estructuras de datos. Me apasiona aprender nuevas tecnologías y aplicarlas en proyectos prácticos.
 
-### 🛠️ Technologies & Tools I use
-- 💻 Languages: **C**, **C++**, **Java**, **Python**
-- 🔧 Interests: Systems programming, data structures, algorithms, backend development, low-level computing
-- 🧠 Always curious about: AI, game development, and operating systems
+### 🛠️ Tecnologías y herramientas que utilizo
+- 💻 Lenguajes: **C**, **C++**, **Java**, **Python**
+- 🔧 Intereses: Programación de sistemas, desarrollo backend, computación de bajo nivel, y desarrollo de videojuegos
+- 🧠 Siempre con curiosidad por: Inteligencia Artificial, desarrollo de videojuegos y sistemas operativos
 
-### 🚀 What I'm working on
-- Exploring personal projects to strengthen my C++ and Python skills
-- Learning about software architecture, design patterns, and system optimization
-- Collaborating on university and personal projects
+### 🚀 En lo que estoy trabajando
+- Explorando proyectos personales para mejorar mis habilidades en C++ y Python
+- Aprendiendo sobre arquitectura de software, patrones de diseño y optimización de sistemas
+- Colaborando en proyectos académicos y personales
 
-### 📫 How to reach me
-- 📧 Email: [samuelpremiun11@gmail.com]
-- 💼 LinkedIn: [www.linkedin.com/in/samuel-garcía-carretero-49b28a335]
+### 📫 Cómo contactarme
+- 📧 Correo: samuelpremiun11@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/samuel-garcía-carretero-49b28a335
 
 ---
 
-Thanks for visiting my profile! 😊
+¡Gracias por visitar mi perfil! 😊
 
