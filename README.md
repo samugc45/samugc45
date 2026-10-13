@@ -6,12 +6,12 @@
 Actualmente estudio **Ingeniería de Computadores** en la **Universidad Politécnica de Madrid**, donde estoy desarrollando una base sólida en programación, sistemas informáticos y hardware. Me apasiona aprender nuevas tecnologías y aplicarlas en proyectos prácticos.
 
 ### 🛠️ Tecnologías y herramientas que utilizo
-- 💻 Lenguajes: **C**, **C++**, **Java**, **Python**, **SQL**
+- 💻 Lenguajes: **C**, **VHDL**, **Java**, **Python**, **SQL**
 - 🔧 Intereses: Programación de sistemas, desarrollo backend, computación de bajo nivel, y desarrollo de videojuegos
 - 🧠 Siempre con curiosidad por: Inteligencia Artificial, desarrollo de videojuegos y sistemas operativos
 
 ### 🚀 En lo que estoy trabajando
-- Explorando proyectos personales para mejorar mis habilidades en C++ y Python
+- Explorando proyectos personales para mejorar mis habilidades en C y VHDL
 - Aprendiendo sobre arquitectura de software, patrones de diseño y optimización de sistemas
 - Colaborando en proyectos académicos y personales
 
